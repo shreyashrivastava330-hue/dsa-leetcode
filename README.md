@@ -46,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0645-set-mismatch) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
