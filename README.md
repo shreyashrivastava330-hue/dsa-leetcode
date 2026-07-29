@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
