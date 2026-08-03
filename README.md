@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0041-first-missing-positive) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## String
