@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0645-set-mismatch) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/1922-count-good-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
