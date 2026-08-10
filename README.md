@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1922-count-good-numbers](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
