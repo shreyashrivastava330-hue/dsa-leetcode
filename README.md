@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0231-power-of-two) |
