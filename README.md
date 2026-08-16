@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
