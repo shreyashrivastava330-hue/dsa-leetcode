@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
