@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0268-missing-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
