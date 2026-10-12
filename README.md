@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0326-power-of-three) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
