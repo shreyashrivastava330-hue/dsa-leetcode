@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0137-single-number-ii) |
