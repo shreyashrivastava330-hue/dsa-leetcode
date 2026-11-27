@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
+| [0986-interval-list-intersections](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0986-interval-list-intersections) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0986-interval-list-intersections) |
 ## String
 |  |
 | ------- |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/shreyashrivastava330-hue/dsa-leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
